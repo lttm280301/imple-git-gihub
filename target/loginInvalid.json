@@ -1,0 +1,23 @@
+{
+	"dataLoginInvalid": [
+		{
+			"email": "trami070701@gmail.com",
+			"pass": "123456",
+			"mess":"Thông tin đăng nhập không hợp lệ"
+		},
+		{
+			"email": "mynguyensieu@gmail.com",
+			"pass": "123456",
+			"mess":"Thông tin đăng nhập không hợp lệ"
+		},
+		{
+			"email": "trami070701@gmail.com",
+			"pass": "@",
+			"mess":"Thông tin đăng nhập không hợp lệ"
+		}
+		
+		
+		
+		
+	]
+}

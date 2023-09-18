@@ -1,0 +1,54 @@
+{
+	"dataLoginInvalid": [
+	{
+		    "surName": "le",
+			"name": "",
+			"gender": "",
+			"dateOfBirth": "",
+			"email": "skyla53@gmail.com",
+			"pass": "123456",
+			"mess":"Email đã tồn tại"
+		},
+		{
+		    "surName": "le",
+			"name": "",
+			"gender": "",
+			"dateOfBirth": "13/23/2000",
+			"email": "skyla53@gmail.com",
+			"pass": "123456",
+			"mess":"Ngày sinh không hợp lệ"
+		},
+		{
+		    "surName": "le",
+			"name": "",
+			"gender": "",
+			"dateOfBirth": "0/23/2000",
+			"email": "skyla53@gmail.com",
+			"pass": "123456",
+			"mess":"Ngày sinh không hợp lệ"
+		},
+		{
+		    "surName": "le",
+			"name": "",
+			"gender": "",
+			"dateOfBirth": "-1/23/2000",
+			"email": "skyla53@gmail.com",
+			"pass": "123456",
+			"mess":"Ngày sinh không hợp lệ"
+		},
+		{
+		    "surName": "le",
+			"name": "",
+			"gender": "",
+			"dateOfBirth": "13/23/2000",
+			"email": "skyla53@gmail.com",
+			"pass": "123456",
+			"mess":"Ngày sinh không hợp lệ"
+		},
+		
+		
+		
+		
+		
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"dataSearch": [
+		{
+			"input": "sữa rửa mặt",
+			
+			"mess":"Có 213 sản phẩm cho tìm kiếm"
+		},
+		{
+			"input": "sữa rửa mặt dịu nhẹ cho da nhạy cảm Cetaphil Gentle Cleanser 500ml",
+			
+			"mess":"Có sản phẩm cho tìm kiếm"
+		}
+		],
+		"dataEmpty":[
+		{
+			"input": "",
+			
+			"mess":"Please fill out this field."
+		}
+		],
+		"noResult":[
+		{
+			"input": "@#$",
+			
+			"mess":"Không tìm thấy nội dung bạn yêu cầu"
+		},
+		{
+			"input": "sữa rửa mặt dịu nhẹ cho da nhạy cảm Cetaphil Gentle Cleanser 500ml",
+			
+			"mess":"Có sản phẩm cho tìm kiếm"
+		}
+		
+		
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"validationPass": [
+		{
+			"email": "trami070701@gmail.com",
+			"pass": "",
+			"mess":"Please fill out this field."
+		}
+		
+		
+	],
+	"validationEmail": [
+		{
+			"email": "trami070701@@gmail.com",
+			"pass": "hahahatrami01",
+			"mess":"A part following '@' should not contain the symbol '@'."
+		},
+		{
+			"email": "",
+			"pass": "hahahatrami01",
+			"mess":"Please fill out this field."
+		},
+		{
+			"email": "@gmail.com",
+			"pass": "hahahatrami01",
+			"mess":"Please enter a part followed by '@'. '@gmail.com' is incomplete."
+		},
+		{
+			"email": "",
+			"pass": "",
+			"mess":"Please fill out this field."
+		},
+		{
+			"email":"trami070701",
+			"pass": "hahahatrami01",
+			"mess":"Please include an '@' in the email address. 'trami070701' is missing an '@'."
+		},
+		{
+			"email":"trami070701 @gmail.com",
+			"pass": "hahahatrami01",
+			"mess":"A part followed by '@' should not contain the symbol ' '."
+		},
+		{
+			"email":"trami070701@gmail .com",
+			"pass": "hahahatrami01",
+			"mess":"A part following '@' should not contain the symbol ' '."
+		}
+		
+		
+		
+		
+		
+	]
+}

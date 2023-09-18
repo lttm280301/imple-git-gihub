@@ -1,0 +1,100 @@
+{
+	"validationSurName": [
+		{
+			"surName": "",
+			"name": "duy",
+			"gender": "",
+			"dateOfBirth": "5/22/2012",
+			"email": "skyla53@gmail.com",
+			"pass": "123456",
+			"mess":"Please fill out this field."
+		}
+		],
+		"validationName": [
+		{
+			"surName": "le",
+			"name": "",
+			"gender": "",
+			"dateOfBirth": "",
+			"email": "skyla53@gmail.com",
+			"pass": "123456",
+			"mess":"Please fill out this field."
+		}
+		],
+		"validationEmail": [
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "",
+			"dateOfBirth": "5/22/2023",
+			"email": "skyla53@@gmail.com",
+			"pass": "123456",
+			"mess":"A part following '@' should not contain the symbol '@'."
+		},
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "",
+			"dateOfBirth": "",
+			"email": "",
+			"pass": "123456",
+			"mess":"Please fill out this field."
+		},
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "male",
+			"dateOfBirth": "13/1/2010",
+			"email": "@gmail.com",
+			"pass": "123456",
+			"mess":"Please enter a part followed by '@'. '@gmail.com' is incomplete."
+		},
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "male",
+			"dateOfBirth": "13/1/2010",
+			"email": "skyla53",
+			"pass": "123456",
+			"mess":"Please include an '@' in the email address. 'trami070701' is missing an '@'."
+		},
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "male",
+			"dateOfBirth": "13/1/2010",
+			"email": "skyla53 @gmail.com",
+			"pass": "123456",
+			"mess":"A part followed by '@' should not contain the symbol ' '."
+		},
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "male",
+			"dateOfBirth": "13/1/2010",
+			"email": "skyla53 @gmail.com",
+			"pass": "123456",
+			"mess":"A part followed by '@' should not contain the symbol ' '."
+		},
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "male",
+			"dateOfBirth": "13/1/2010",
+			"email": "skyla53@gmail .com",
+			"pass": "123456",
+			"mess":"A part following '@' should not contain the symbol ' '."
+		}
+	],
+	"validationPass": [
+		{
+			"surName": "le",
+			"name": "duy",
+			"gender": "",
+			"dateOfBirth": "5/22/2023",
+			"email": "kellen690@gmail.com",
+			"pass": "",
+			"mess":"Please fill out this field."
+		}
+		]
+}
